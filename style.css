@@ -1,0 +1,76 @@
+body {
+  background-color: rgba(235, 235, 235, 1);
+  font-family: 'Open Sans', sans-serif;
+  color: grey;
+}
+h1, h2, h3 {
+  font-family: 'Montserrat', sans-serif;
+}
+.page{
+  margin: auto;
+}
+
+.box-style{
+  width: 450px;
+  margin: auto;
+  border: 0px solid grey;
+  margin-bottom: 20px;
+  background-color: white;
+  box-shadow: 0px 1px 1px rgba(204, 204,204,1);
+  border-radius: 5px;
+  padding: 20px;
+}
+.presentation{
+
+
+}
+.presentation img {
+  border-radius: 50%;
+  border: 4px grey solid;
+  width: 100px;
+  margin: auto;
+  display: block;
+}
+h1 {
+  color: red;
+  text-align: center;
+  font-size: 22px;
+}
+h2 {
+  color: grey;
+  text-align: center;
+  font-size:18px;
+}
+.div-bouton {
+  text-align: center;
+}
+.bouton {
+  display: inline-block;
+  background-color: red;
+  border-radius: 5px;
+  color: white;
+  padding:5px;
+}
+.lien ul {
+  margin: 0px;
+  padding: 0px;
+}
+.lien li{
+  list-style-type: none;
+  display: inline-block;
+  text-align: center;
+  margin-left: 60px;
+}
+.lien a {
+  color: grey;
+}
+.movies img{
+  height: 120px;
+}
+.movies h3{
+  text-align: center;
+}
+.movies p {
+  margin-left: 20px;
+  font-size: 15px;
+}
