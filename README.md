@@ -1,4 +1,4 @@
-# starting-web-developpment
+# starting-web-development
 
 Exerice d'introduction au développement web qui met en application les bases apprisent en HTML5 et CSS3.
 
